@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kf4lZQFGo3naqldj4F1V+hs3PYnBGD6ks5tGMjfAJ2DmU4sT3fznPWHgTbvtCVFcKySNT4q8ElFqZogvPHScZA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\CodeWars\\CodeWars\\CodeWars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\davin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\davin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
