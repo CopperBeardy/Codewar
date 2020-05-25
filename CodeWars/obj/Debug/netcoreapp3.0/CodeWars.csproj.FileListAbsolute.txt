@@ -11,3 +11,16 @@ C:\Projects\CodeWars\CodeWars\obj\Debug\netcoreapp3.0\CodeWars.dll
 C:\Projects\CodeWars\CodeWars\obj\Debug\netcoreapp3.0\CodeWars.pdb
 C:\Projects\CodeWars\CodeWars\obj\Debug\netcoreapp3.0\CodeWars.csproj.CoreCompileInputs.cache
 C:\Projects\CodeWars\CodeWars\obj\Debug\netcoreapp3.0\CodeWars.genruntimeconfig.cache
+C:\Projects\Codewar\CodeWars\bin\Debug\netcoreapp3.0\CodeWars.exe
+C:\Projects\Codewar\CodeWars\bin\Debug\netcoreapp3.0\CodeWars.deps.json
+C:\Projects\Codewar\CodeWars\bin\Debug\netcoreapp3.0\CodeWars.runtimeconfig.json
+C:\Projects\Codewar\CodeWars\bin\Debug\netcoreapp3.0\CodeWars.runtimeconfig.dev.json
+C:\Projects\Codewar\CodeWars\bin\Debug\netcoreapp3.0\CodeWars.dll
+C:\Projects\Codewar\CodeWars\bin\Debug\netcoreapp3.0\CodeWars.pdb
+C:\Projects\Codewar\CodeWars\obj\Debug\netcoreapp3.0\CodeWars.csprojAssemblyReference.cache
+C:\Projects\Codewar\CodeWars\obj\Debug\netcoreapp3.0\CodeWars.AssemblyInfoInputs.cache
+C:\Projects\Codewar\CodeWars\obj\Debug\netcoreapp3.0\CodeWars.AssemblyInfo.cs
+C:\Projects\Codewar\CodeWars\obj\Debug\netcoreapp3.0\CodeWars.csproj.CoreCompileInputs.cache
+C:\Projects\Codewar\CodeWars\obj\Debug\netcoreapp3.0\CodeWars.dll
+C:\Projects\Codewar\CodeWars\obj\Debug\netcoreapp3.0\CodeWars.pdb
+C:\Projects\Codewar\CodeWars\obj\Debug\netcoreapp3.0\CodeWars.genruntimeconfig.cache

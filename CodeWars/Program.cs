@@ -11,7 +11,7 @@ namespace CodeWars
         static void Main(string[] args)
         {
 
-            I_said_the_word_WOULD_instead_of_WOULDNT problem = new I_said_the_word_WOULD_instead_of_WOULDNT();
+            Array_Deep_Count problem = new Array_Deep_Count();
             problem.Solve();
             
         }

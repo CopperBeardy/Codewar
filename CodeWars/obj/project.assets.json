@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\CodeWars\\CodeWars\\CodeWars.csproj",
+      "projectUniqueName": "C:\\Projects\\Codewar\\CodeWars\\CodeWars.csproj",
       "projectName": "CodeWars",
-      "projectPath": "C:\\Projects\\CodeWars\\CodeWars\\CodeWars.csproj",
+      "projectPath": "C:\\Projects\\Codewar\\CodeWars\\CodeWars.csproj",
       "packagesPath": "C:\\Users\\davin\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\CodeWars\\CodeWars\\obj\\",
+      "outputPath": "C:\\Projects\\Codewar\\CodeWars\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -67,7 +67,7 @@
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.0.3, 3.0.3]"
+            "version": "[3.0.1, 3.0.1]"
           }
         ],
         "frameworkReferences": {
@@ -75,7 +75,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.1.20155.7\\RuntimeIdentifierGraph.json"
       }
     }
   }
