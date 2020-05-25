@@ -11,7 +11,7 @@ namespace CodeWars
         static void Main(string[] args)
         {
 
-            Array_Deep_Count problem = new Array_Deep_Count();
+            PsychicGuesser problem = new PsychicGuesser();
             problem.Solve();
             
         }
