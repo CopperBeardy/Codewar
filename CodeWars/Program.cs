@@ -11,7 +11,7 @@ namespace CodeWars
         static void Main(string[] args)
         {
 
-            PsychicGuesser problem = new PsychicGuesser();
+            Financing_Plan_on_Planet_XY140Z_n problem = new Financing_Plan_on_Planet_XY140Z_n();
             problem.Solve();
             
         }
