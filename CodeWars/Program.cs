@@ -1,4 +1,5 @@
 ﻿using CodeWars._6kyu;
+using CodeWars._5kyu;
 using System;
 using System.Linq;
 
@@ -10,7 +11,7 @@ namespace CodeWars
         static void Main(string[] args)
         {
 
-            Sums_of_Parts problem = new Sums_of_Parts();
+            Directions_Reduction problem = new Directions_Reduction();
             problem.Solve();
 
         }
