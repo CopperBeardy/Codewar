@@ -10,7 +10,7 @@ namespace CodeWars
         static void Main(string[] args)
         {
 
-            Prize_Draw problem = new Prize_Draw();
+            Sums_of_Parts problem = new Sums_of_Parts();
             problem.Solve();
 
         }
