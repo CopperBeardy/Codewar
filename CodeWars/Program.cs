@@ -11,7 +11,7 @@ namespace CodeWars
         static void Main(string[] args)
         {
 
-            Directions_Reduction problem = new Directions_Reduction();
+            Braking problem = new Braking();
             problem.Solve();
 
         }
