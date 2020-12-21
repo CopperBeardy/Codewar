@@ -1,5 +1,5 @@
 ﻿using CodeWars._6kyu;
-using CodeWars._5kyu;
+
 using System;
 using System.Linq;
 
@@ -11,7 +11,7 @@ namespace CodeWars
         static void Main(string[] args)
         {
 
-            Braking problem = new Braking();
+            Playing_With_Toy_Blocks problem = new Playing_With_Toy_Blocks();
             problem.Solve();
 
         }
