@@ -1,1 +1,1 @@
-Codewar
+Solution for Codingwars Kata challenges
